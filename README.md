@@ -1,6 +1,4 @@
-# LaTeX Thesis Template
-
-A modular LaTeX thesis template with numbered bibliography, mathematical environments, and custom styled blocks.
+# LaTeX Template for Notes
 
 ## File Structure
 ```
