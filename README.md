@@ -1,5 +1,7 @@
 # LaTeX Template for Notes
 
+(AI Acknowledgement: I used help from Copilot to add lorem text as a filler for the template, and also to learn about packages that may be helpful for modifications.)
+
 ## File Structure
 ```
 main.tex              # Main document file
