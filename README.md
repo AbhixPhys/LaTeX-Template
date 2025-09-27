@@ -6,6 +6,7 @@
 ```
 main.tex              # Main document file
 custom.sty            # Custom commands and styling
+compile.sh            # Compile TeX files.
 references.bib        # Bibliography database
 chapters/             # Individual chapter files
   chapter01.tex
@@ -18,7 +19,7 @@ appendices/           # Appendix files
 
 ## Quick Start
 
-1. Edit your content in the chapter files (`chapters/chapter01.tex`, etc.)
+1. Edit your content in the chapter/appendix files (`chapters/chapter0x.tex`, etc.)
 2. Add references to `references.bib`
 3. Compile the document:
    ```bash
